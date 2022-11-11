@@ -1,2 +1,2 @@
 # Jacobi-Python
-Metodo de Jacobi, raealizado con Python
+Metodo de Jacobi, realizado con Python
